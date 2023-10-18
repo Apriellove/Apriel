@@ -1,0 +1,61 @@
+{
+  "company1": {
+    "id":1,
+    "companyName":"TechSynth",
+    "employee":{
+      "employee1": {
+        "name": "Allison Daye",
+        "position": "CEO"
+      },
+      "employee2": {
+        "name": "Mary Kate",
+        "position": "Developer"
+      },
+      "employee3": {
+        "name": "Evan Agustine",
+        "position": "Designer"
+      },
+      "employee4": {
+        "name": "Kaye Uba",
+        "position": "CFO"
+      },
+      "employee5": {
+        "name": "Sam David",
+        "position": "Analyst"
+      }
+    },
+    "location":"Singapore"
+  },
+
+
+  "company2": {
+    "id": 2,
+    "companyName": "QuanTech",
+    "employee": {
+      "employee1": {
+        "name": "Emily Larson",
+        "position": "Manager"
+      },
+      "employee2": {
+        "name": "Alex Gonzaga",
+        "position": "Designer"
+      },
+      "employee3": {
+        "name": "Belle Mariano",
+        "position": "Developer"
+      },
+      "employee4": {
+        "name": "Maxpaine Pangilinan",
+        "position": "Team Lead"
+      },
+      "employee5": {
+        "name": "Mary Faith Reyes",
+        "position": "Analyst"
+      }
+    },
+    "location": "Norway"
+  }
+
+
+}
+
